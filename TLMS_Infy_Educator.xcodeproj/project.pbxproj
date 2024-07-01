@@ -16,6 +16,7 @@
 		D13FF8D42C32B97F00D70642 /* TLMS_Infy_EducatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D13FF8D32C32B97F00D70642 /* TLMS_Infy_EducatorTests.swift */; };
 		D13FF8DE2C32B97F00D70642 /* TLMS_Infy_EducatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D13FF8DD2C32B97F00D70642 /* TLMS_Infy_EducatorUITests.swift */; };
 		D13FF8E02C32B97F00D70642 /* TLMS_Infy_EducatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D13FF8DF2C32B97F00D70642 /* TLMS_Infy_EducatorUITestsLaunchTests.swift */; };
+		D13FF8ED2C32B99100D70642 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = D13FF8EC2C32B99100D70642 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D13FF8D92C32B97F00D70642 /* TLMS_Infy_EducatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TLMS_Infy_EducatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D13FF8DD2C32B97F00D70642 /* TLMS_Infy_EducatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLMS_Infy_EducatorUITests.swift; sourceTree = "<group>"; };
 		D13FF8DF2C32B97F00D70642 /* TLMS_Infy_EducatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLMS_Infy_EducatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D13FF8EC2C32B99100D70642 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		D13FF8B02C32B97E00D70642 = {
 			isa = PBXGroup;
 			children = (
+				D13FF8EC2C32B99100D70642 /* .gitignore */,
 				D13FF8BB2C32B97E00D70642 /* TLMS_Infy_Educator */,
 				D13FF8D22C32B97F00D70642 /* TLMS_Infy_EducatorTests */,
 				D13FF8DC2C32B97F00D70642 /* TLMS_Infy_EducatorUITests */,
@@ -248,6 +251,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D13FF8ED2C32B99100D70642 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
